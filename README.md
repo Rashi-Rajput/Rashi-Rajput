@@ -1,65 +1,53 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:172554,100:7c3aed&text=RASHI%20RAJPUT&fontColor=ffffff&fontSize=48&fontAlignY=37&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20Computer%20Vision%20%20%E2%80%A2%20%20LLMs&descAlignY=59&descSize=16&animation=fadeIn" width="100%" alt="Rashi Rajput banner" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+things+from+scratch;Computer+Vision+%7C+RAG+%7C+AI+Agents;Turning+curiosity+into+working+code" alt="Animated introduction" />
+<a href="https://github.com/Rashi-Rajput"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/skQzi669XU/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+<!-- Replace the LinkedIn placeholder below with your actual public profile URL. -->
+<!-- <a href="https://www.linkedin.com/in/YOUR-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a> --></div>
+> whoami
+name: Rashi Rajput
+role: AI/ML developer & curious builder
+interests: [Computer Vision, LLMs, RAG, AI Agents, Time Series]
+currently_exploring: [Model architectures, Practical ML systems]
+motto: "Build. Break. Learn. Repeat."
+> ls ./toolkit
+<div align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,fastapi,django,git,github,vscode,linux&theme=dark&perline=10" alt="Python, PyTorch, OpenCV, scikit-learn, FastAPI, Django, Git, GitHub, VS Code and Linux" />
 
-# Hey 👋, I'm Rashi Rajput
 
-**AI/ML Developer · Building intelligent systems from ideas to prototypes**
+Python · Machine Learning · Deep Learning · Computer Vision · RAG · LLMs · Time Series
+</div>> cat featured_projects.md
+<table>
+<tr>
+<td width="50%" valign="top">Road Safety RAG Tool
+Retrieval-augmented AI application focused on road safety knowledge.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&color=70A5FD&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Computer+Vision;LLMs+%7C+RAG+%7C+AI+Agents;Python+%7C+FastAPI+%7C+PyTorch;Always+learning%2C+always+building" alt="Typing introduction" />
+RAG AI Retrieval
+</td>
+<td width="50%" valign="top">BehindTheSceneAI
+Exploring multi-agent approaches to causal intelligence.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rashi--Rajput-181717?style=for-the-badge&logo=github)](https://github.com/Rashi-Rajput)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/skQzi669XU/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN/)
+Agents AI Reasoning
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">Time Series Forecasting
+Statistical and machine-learning approaches to forecasting.
 
-</div>
+Forecasting ML Time Series
+</td>
+<td width="50%" valign="top">QuestEd
+A gamified approach to learning.
 
----
+Education Product Gamification
+</td>
+</tr>
+</table>> leetcode --stats
+<div align="center"><a href="https://leetcode.com/u/skQzi669XU/">
+  <img src="https://leetcard.jacoblin.cool/skQzi669XU?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" alt="Live LeetCode solved problem statistics and activity heatmap for skQzi669XU" width="680" />
+</a>
+<sub>Live LeetCode data · Easy / Medium / Hard breakdown · Activity heatmap</sub>
+</div>> echo 'let\x27s connect'
+<div align="center">Interested in AI, practical ML, or building something unusual?
 
-### `rashi@github:~$ whoami`
-
-```text
-> name           Rashi Rajput
-> focus          AI / ML · Computer Vision · LLMs · Agentic AI
-> building       Intelligent applications and practical ML systems
-> exploring      Model architectures · RAG · Time-series forecasting
-> philosophy     Learn by building. Improve by experimenting.
-```
-
-### `rashi@github:~$ cat tech_stack.txt`
-
-| Area | Technologies |
-| --- | --- |
-| **AI / ML** | Python · PyTorch · scikit-learn · pandas · NumPy |
-| **LLMs & Agents** | LangChain · LangGraph · RAG · FAISS · CrewAI |
-| **Computer Vision** | OpenCV · YOLO |
-| **Backend** | FastAPI · Django |
-| **Development** | Git · GitHub · Jupyter Notebook · VS Code |
-
-### `rashi@github:~$ ls featured_projects/`
-
-| Project | What it does |
-| --- | --- |
-| [Road Safety RAG Tool](https://github.com/Rashi-Rajput/Road-Safety-RAG-Tool) | Evidence-backed road safety recommendations using RAG, LangChain, LangGraph and FAISS |
-| [BehindTheSceneAI](https://github.com/Rashi-Rajput/BehindTheSceneAI) | CrewAI-powered causal analysis of news, sentiment and market signals |
-| [Time Series Forecasting](https://github.com/Rashi-Rajput/Statistical-and-ML-Time-Series-Forecasting) | Statistical and ML forecasting with model selection and evaluation |
-| [QuestEd](https://github.com/Rashi-Rajput/QuestEd) | Gamified learning with a retro RPG experience and React dashboard |
-
-### `rashi@github:~$ github --stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rashi-Rajput&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi-Rajput&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Rashi-Rajput&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-<div align="center">
-
-**Let's connect and build something interesting.**
-
-[GitHub](https://github.com/Rashi-Rajput) · [LeetCode](https://leetcode.com/u/skQzi669XU/) · [LinkedIn](https://www.linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN/)
-
-</div>
+GitHub  •  LeetCode
+<!-- Add LinkedIn here once you have your exact profile URL. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0d1117,50:172554,100:7c3aed" width="100%" alt="Footer wave" /></div>
