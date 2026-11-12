@@ -28,7 +28,7 @@
 
 ## `01 / about me`
 
-I'm an engineering student focused on **AI/ML, computer vision, and applied research**. I enjoy moving from an idea to an actual working system: experimenting with models, writing code, and understanding *why* things work.
+I'm an engineering student focused on **AI/ML, computer vision, and mathematics**. I enjoy moving from an idea to an actual working system: experimenting with models, writing code, and understanding *why* things work.
 
 <table>
 <tr>
