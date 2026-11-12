@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="Rashi Rajput — Computer Vision · Machine Learning · Intelligent Systems" width="100%" />
+<img src="banner.svg" alt="Rashi Rajput — Computer Vision · Machine Learning · Intelligent Systems" width="100%" />
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## `01 / about me`
 
@@ -55,7 +55,7 @@ I'm an engineering student focused on **AI/ML, computer vision, and applied rese
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## `02 / research experience`
 
@@ -86,7 +86,7 @@ Worked on **real-time traversable path detection** for autonomous navigation, ex
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## `03 / selected work`
 
@@ -135,7 +135,7 @@ Statistical and machine-learning approaches to forecasting sequential data.
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## `04 / tools I work with`
 
@@ -149,7 +149,7 @@ Statistical and machine-learning approaches to forecasting sequential data.
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## `05 / leetcode`
 
@@ -165,7 +165,7 @@ Statistical and machine-learning approaches to forecasting sequential data.
 
 <br/>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -177,6 +177,6 @@ Have an idea, research question, or collaboration in mind? I'd love to connect.
 
 <br/><br/>
 
-<img src="assets/footer.svg" alt="Made with curiosity and a lot of debugging" width="100%" />
+<img src="footer.svg" alt="Made with curiosity and a lot of debugging" width="100%" />
 
 </div>
