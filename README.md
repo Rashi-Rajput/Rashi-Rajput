@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="banner.svg" alt="Rashi Rajput — Computer Vision · Machine Learning · Intelligent Systems" width="100%" />
+<img src="banner.svg" alt="Rashi Rajput — AI · Machine Learning · Mathematics" width="100%" />
 
 <br/><br/>
 
@@ -28,7 +28,7 @@
 
 ## `01 / about me`
 
-I'm an engineering student focused on **AI/ML, computer vision, and mathematics**. I enjoy moving from an idea to an actual working system: experimenting with models, writing code, and understanding *why* things work.
+I'm an engineering student focused on **AI,Machine Learning and mathematics**. I enjoy moving from an idea to an actual working system: experimenting with models, writing code, and understanding *why* things work.
 
 <table>
 <tr>
